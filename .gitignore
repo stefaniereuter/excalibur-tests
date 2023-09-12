@@ -18,6 +18,9 @@ setup/.sslconfig
 Miniconda*.sh
 working/
 outdated/
+setup-env.sh
+*.in.log
+*.out.log
 
 # jupyter checkpoints:
 *-checkpoint.ipynb
@@ -25,3 +28,6 @@ outdated/
 #ignore virtual environment
 myvenv/
 perflogs/
+excalibur-env/
+
+
